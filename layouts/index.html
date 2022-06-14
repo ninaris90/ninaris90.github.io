@@ -28,7 +28,7 @@
         <div class="col-lg-5">
 		<div class="card">
 			<div class="card-body">
-				<h2 class="h3"><a class="stretched-link text-body" href="{{ .RelPermalink }}">Economy</a></h2>
+				<h2 class="h3"><a class="stretched-link text-body" href="{{ .RelPermalink }}">Pomona</a></h2>
 				<p>{{ .Params.lead | safeHTML }}</p>
 			</div>
 		</div>
@@ -36,12 +36,38 @@
         <div class="col-lg-5">
 		<div class="card">
 			<div class="card-body">
-				<h2 class="h3"><a class="stretched-link text-body" href="{{ .RelPermalink }}">The arts</a></h2>
-				<p>{{ .Params.lead | safeHTML }}</p>
+				<h2 class="h3"><a class="stretched-link text-body" href="projects/research">Toppix</a></h2>
+				<p>An intelligent recommendation software with privacy included.</p>
 			</div>
 		</div>
         </div>
       </div>
+      <div class="row justify-content-center text-center">
+        <div class="col-lg-5">
+		<div class="card">
+			<div class="card-body">
+				<h2 class="h3"><a class="stretched-link text-body" href="{{ .RelPermalink }}">Education</a></h2>
+				<p>{{ .Params.lead | safeHTML }}</p>
+			</div>
+		</div>
+	</div>
+        <div class="col-lg-5">
+		<div class="card">
+			<div class="card-body">
+				<h2 class="h3"><a class="stretched-link text-body" href="{{ .RelPermalink }}">Block-AI</a></h2>
+				<p>Open-sourcing the building blocks of AI.</p>
+			</div>
+		</div>
+        </div>
+        <div class="col-lg-5">
+		<div class="card">
+			<div class="card-body">
+				<h2 class="h3"><a class="stretched-link text-body" href="projects/research">Fundamental Research</a></h2>
+				<p>Building the technology of tomorrow on the shoulders of science.</p>
+			</div>
+		</div>
+        </div>
+       </div>
     </div>
   </section>
   {{ end }}
