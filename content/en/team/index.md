@@ -13,7 +13,7 @@ images: []
 <td width='50%'>
 <img src='nina.png' width='50px'><b>  Nina Rismal (CEO)</b>
 <hr>
-Nina [...] She holds a PhD in Political Sciences from the University of Cambridge.
+Nina is an economist and political philosopher interested in social change. She studied at SOAS, Oxford, and Cambridge, where she wrote her doctoral dissertation in defense of utopias. [...] 
 </td>
 
 <td width='50%'>
