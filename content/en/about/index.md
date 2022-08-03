@@ -11,43 +11,34 @@ images: []
 
 Possible Worlds is an enterprise specialising in small AI. 
 
-Small AI refers to a set of technologies with the following features:
+Small AI refers to a set of technologies which:
  
-- it can be run on minimal hardware and infrastructure;
-- it is ecologically sustainable;
-- it requires significantly less technical expertise.
+- can be run on minimal hardware and infrastructure;
+- is ecologically sustainable;
+- requires significantly less technical expertise;
+- provides agile solutions for a wide variety of problems, in different environments.
 
 
-We work with individuals, companies and research organisations. We are based in Brandenburg, Germany. 
+Small AI relies on a tight integration of cutting-edge science from various disciplines.
+
+We are based in Brandenburg, Germany. 
 
 
 
 
 ## What we do
 
-* **Research:** We actively bring together scientific disciplines that foster advances in Small AI.
 
-* **Develop:** We turn scientific insights into AI models, and share them through open source licenses.
+* **Research:** We actively bring together scientific disciplines that foster advances in Small AI. Our solutions are developed at the junction of computer science, cognitive neuroscience and theoretical linguistics. More information can be found on our [science]() page.
 
-* **Deploy:** We apply our models to different causes, from everyday applications to the big societal questions of our time. 
+* **Develop:** We turn theory into practice by building AI toolkits which we share through open source licenses. Our toolkits are there to help creatives and entrepreneurs design novel products and solutions in their day-to-day business. They include everything needed to get started with a task: use cases, models, datasets, and more! Our first tools are currently growing in our [AI Garden]().
 
-
-
+* **Deploy:** We apply our models to different causes, from everyday applications to the big societal questions of our time.  
 
 
+## Why AI?
+
+AI systems have the potential to emulate many of the abilities displayed by human beings, from writing stories to sorting out your photo albums. It is impossible to fully grasp the number of problems that could be solved by intelligent systems: there are as many applications as there are professions, economic branches, cultures and natural settings. Just as it is hard to understand the range of abilities of the human brain, the applicability of AI is unbounded. Check [this video]() to understand what AI can do for us.
 
 
-* Visions & scenarios 
-We create prototypes of the future. 
 
-* Toolkits 
-We develop AI-based toolkits for everyone's use. For play and for work. Be it SME or individuals: creatives and enterpreneurs. AI can assist you in different ways. For example, it can help you to [...] But it can also solve other tasks such as image recognition, question answering and text classification (needs to be explained). Our toolkits include everything you need to get started with a task: use cases, models, datasets, and more! 
-
-* Workshops & courses
-We design and lead tailored workshops and courses on AI. 
-
-* Consultation
-We offer bespoke advice on the use of AI. 
-
-** Basic research 
-We work on advancing the science that underpinns and builds on AI. 
