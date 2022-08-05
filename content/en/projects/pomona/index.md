@@ -9,6 +9,7 @@ images: []
 
 ## The problem with resource allocation 
 
+Extreme levels of inequality in our society, exploding climate crisis and interrupted supply chains testify to the claim that our economy is broken.  Markets are not distributing products and service in a way that would be beneficial for the society as a whole. Instead they appear to be skewed to benefiting certain minorities. Markets have also not succeeded in guaranteeing sufficient supply of essential public goods such as health care and education. Moreover, they have managed to satisfy other basic needs, such as for heating and electricity, but only in the short-term and at high expense in the long-term. The most recent failure of the distributing mechanism of the market economy is the ongoing interruptions of supply chains, both end-consumers nor the tech-manufacturers are unable to purchase the chips and other bits they require, either for their personal use or as inputs into further production process. 
 
 
 ## Working out a solution
