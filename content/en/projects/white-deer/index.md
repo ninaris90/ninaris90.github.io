@@ -7,8 +7,7 @@ draft: false
 images: []
 ---
 
-White Deer
-Description: A tool to simulate new futures. 
+A tool to simulate new futures. 
 
 ## The problem with the “new”
 
@@ -21,22 +20,14 @@ There are however other kinds of future thinking which we have not learned how t
 
 ## Combining science with imagination 
 
-At Possible Worlds, we have developed models of future thinking which combines science with imagination, giving rise to ideas of the future that are new, but based on widely acceptable scientific methods. 
+At Possible Worlds, we are developing models of future thinking which combines science with imagination, giving rise to ideas of the future that are new, but based on widely acceptable scientific methods. 
+
+While news outlets abound with stories about virtual realities, which supposedly reproduce many features of the real world in a digital environment (including estate agents and embassies), the White Deer project is radically different. It does not simply recreate existing patterns in a simulation, but rather lets the user imagine the world in a completely novel way. It does not replicate people as avatars, it allows real individuals to think and experiment with changes that could happen in the real world.
+
+To achieve this, White Deer analyses how the data people are exposed to shapes their concepts and beliefs in the current world. It also provides tools to manipulate the real data -- adding, removing, and modifying existing ideas, with the goal of simulating a human exposed to radically different beliefs. The resulting simulation can be visualised and analysed to better understand the consequences of 'rewriting the world'.
 
 
-it can be new but it is not realistic or possible 
-or it can be realistic and possible but it is now new
-
-!! thinking how a future can be different, new, as opposed to an extension of the present
-
-- how is the deer project different; 1) what if you imagine the world completely different and what would follow as opposed to building on the world as it is; 2) you are not an avatar but you are still a person here and now 
-
-WhiteDeer is a tool to analyse how the linguistic diet people are exposed to shapes their concepts and beliefs. It is composed of three modules: a) one module to artificially manipulate data in large corpora, removing / adding or modifying the use of user-selected words; b) one module that learns concepts from the manipulated data, simulating a human exposed to the modified text; c) one module to visualise and interpret the conceptual space thus created.
-
-The output can be analysed in terms of the most likely associations a human would draw between concepts.
-
-A possible extension for the system would be to train a dialogue agent on the data rather than simply learn concepts. The resulting agent could then chat with human users.
+[comment]: # (it can be new but it is not realistic or possible or it can be realistic and possible but it is now new. !! thinking how a future can be different, new, as opposed to an extension of the present. The output can be analysed in terms of the most likely associations a human would draw between concepts. A possible extension for the system would be to train a dialogue agent on the data rather than simply learn concepts. The resulting agent could then chat with human users.)
 
 
-bring the virutal realities here
 ## Features 
