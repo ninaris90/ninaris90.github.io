@@ -28,10 +28,17 @@ To achieve this, White Deer acts as an artist, taking in the stimuli of the exis
 
 White Deer's algorithm relies on recent advances in machine learning and cognitive science, which highlight similarities between humans and computers. When a person is exposed to the real world, the data contained in that exposure is processed by the brain to construct the concepts and beliefs of that individual. Similarly, a computational system crunches the data it is fed with in order to learn representations of reality. While we cannot so easily change the data contained in the real world, it is possible to manipulate the input to a machine, in a way that it seems exposed to a different 'reality'. White Deer does just that, using text corpora as input data.
 
-OLD: Humans represent reality through sets of interconnected concepts. Recent advances in machine learning have shown that a system exposed to text content can learn vector space representations that come close to human concepts. The geometry of the resulting space is dependent on the data that has been fed into the system. So by modifying the data, we can indirectly act on the concepts that are learned from it. The core of White Deer is the ability to manipulate text data in a way that some parts of reality are removed, added or modified, and to learn concepts from that new data, thus simulating an individual exposed to various hypothetical social and economic structures. Analysis tools are also provided, giving different options to inspect the configuration of the acquired conceptual content.
+
+## Features
+
+* Innovative: White Deer does not suggest mere extensions to our existing reality, but generates novel alternatives to our social and economic structures.
+
+* Transformative: The system is not another mode of escapism. It concerns itself with ways to improve life on the planet we know.
+
+* Systemic: The algorithm allows users to explore how changes to only one aspect of reality has consequences for all others. 
 
 
-[comment]: # (it can be new but it is not realistic or possible or it can be realistic and possible but it is now new. !! thinking how a future can be different, new, as opposed to an extension of the present. The output can be analysed in terms of the most likely associations a human would draw between concepts. A possible extension for the system would be to train a dialogue agent on the data rather than simply learn concepts. The resulting agent could then chat with human users.)
+[comment]: # (it can be new but it is not realistic or possible or it can be realistic and possible but it is now new. !! thinking how a future can be different, new, as opposed to an extension of the present. The output can be analysed in terms of the most likely associations a human would draw between concepts. A possible extension for the system would be to train a dialogue agent on the data rather than simply learn concepts. The resulting agent could then chat with human users. [...] Humans represent reality through sets of interconnected concepts. Recent advances in machine learning have shown that a system exposed to text content can learn vector space representations that come close to human concepts. The geometry of the resulting space is dependent on the data that has been fed into the system. So by modifying the data, we can indirectly act on the concepts that are learned from it. The core of White Deer is the ability to manipulate text data in a way that some parts of reality are removed, added or modified, and to learn concepts from that new data, thus simulating an individual exposed to various hypothetical social and economic structures. Analysis tools are also provided, giving different options to inspect the configuration of the acquired conceptual content.)
 
 
 ## Features 
