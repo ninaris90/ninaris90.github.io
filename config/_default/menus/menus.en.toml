@@ -6,18 +6,18 @@
   weight = 1
 
 
-[[main]]
-  name = "Founding statement"
-  url = "/founding_statement/"
-  weight = 2
+#[[main]]
+# name = "Founding statement"
+# url = "/founding_statement/"
+# weight = 2
 
 [[main]]
-  name = "The science"
+  name = "Science"
   url = "/science/"
   weight = 3
 
 [[main]]
-  name = "Our team"
+  name = "Team"
   url = "/team/"
   weight = 4
 

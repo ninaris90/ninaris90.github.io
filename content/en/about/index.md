@@ -19,7 +19,7 @@ Small AI refers to a set of technologies which:
 - provides agile solutions for a wide variety of problems, in different environments.
 
 
-Small AI relies on a tight integration of cutting-edge science from various disciplines.
+We work with companies, research organisations and public authorities. 
 
 We are based in Brandenburg, Germany. 
 
@@ -33,12 +33,13 @@ We are based in Brandenburg, Germany.
 
 * **Develop:** We turn theory into practice by building AI toolkits which we share through open source licenses. Our toolkits are there to help creatives and entrepreneurs design novel products and solutions in their day-to-day business. They include everything needed to get started with a task: use cases, models, datasets, and more! Our first tools are currently growing in our [AI Garden]().
 
-* **Deploy:** We apply our models to different causes, from everyday applications to the big societal questions of our time.  
+* **Deploy:** We apply our models to different causes, from everyday applications to the big societal questions of our time. We are currently developing solutions for [recommendation systems](), [resource allocation]() and [future simulations]().  
 
 
 ## Why AI?
 
 AI systems have the potential to emulate many of the abilities displayed by human beings, from writing stories to sorting out your photo albums. It is impossible to fully grasp the number of problems that could be solved by intelligent systems: there are as many applications as there are professions, economic branches, cultures and natural settings. Just as it is hard to understand the range of abilities of the human brain, the applicability of AI is unbounded. Check [this video]() to understand what AI can do for us.
+
 
 
 

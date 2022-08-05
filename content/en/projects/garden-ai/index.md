@@ -1,6 +1,6 @@
 ---
 title: "The Garden of AI"
-description: "Growing seeds for AI"
+lead: "Growing seeds for AI / The Garden of AI is a set of Small AI models, datasets and use cases that can be used independently by users and applied to the problem at hand."
 date: 2022-06-14T07:25:16+02:00
 lastmod: 2022-06-14T07:25:16+02:00
 draft: false

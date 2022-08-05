@@ -1,11 +1,12 @@
 ---
 title: "Toppix"
-description: "Intelligent recommendation software, with privacy included"
+description: "Intelligent film recommendation software, with privacy included"
 date: 2022-06-14T07:23:40+02:00
 lastmod: 2022-06-14T07:23:40+02:00
 draft: false
 images: []
 ---
+
 
 ## The problem with recommender systems
 
