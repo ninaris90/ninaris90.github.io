@@ -9,7 +9,7 @@ images: []
 
 ## Who we are
 
-Possible Worlds is an enterprise specialising in small AI. 
+Possible Worlds is an enterprise specialising in Small AI. 
 
 Small AI refers to a set of technologies which:
  

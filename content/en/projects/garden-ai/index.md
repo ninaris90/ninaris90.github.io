@@ -1,6 +1,6 @@
 ---
 title: "The Garden of AI"
-lead: "Growing seeds for AI / The Garden of AI is a set of Small AI models, datasets and use cases that can be used independently by users and applied to the problem at hand."
+lead: "Small AI models, datasets and use cases that can be used independently by users and applied to the problems of their concern."
 date: 2022-06-14T07:25:16+02:00
 lastmod: 2022-06-14T07:25:16+02:00
 draft: false
@@ -9,7 +9,7 @@ images: []
 
 ## The problem with artificial intelligence
 
-Agriculture started 12,000 ago when humans understood that a wonder of nature -- plant growth -- could be harnessed to their advantage. Many centuries later, humans are slowing understanding that another natural phenomenon, *cognition*, can similarly be 'grown' and used to benefit work and social processes. Simulating cognition is the promise of Artificial Intelligence.
+Agriculture started 12,000 ago when humans understood that a wonder of nature -- plant growth -- could be harnessed to their advantage. Many centuries later, humans are slowly understanding that another natural phenomenon, *cognition*, can similarly be 'grown' and used to benefit work and social processes. Simulating cognition is the promise of Artificial Intelligence.
 
 Unlike agriculture, though, the practice of AI is currently reserved to a handful of the world's population. It requires special knowledge and special tools, which are out of reach for most people. While our ancestors could partake in the development of agriculture by collecting (freely available) seeds and planting them in (freely available) soil, the development of AI is very much an ivory tower activity.
 
