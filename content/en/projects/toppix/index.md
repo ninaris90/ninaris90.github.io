@@ -19,7 +19,9 @@ Possible Worlds is developing *Toppix*, a single recommendation platform for nar
 
 ## Working out a solution
 
-The first version of Toppix is made of a pipeline of AI tools that perform an in-depth analysis of movie synopses, including the main characters, events and locations in the story. To achieve this, it builds on the tools Possible Worlds has been developing in their [Garden of AI](projects/garden-ai).
+The first version of Toppix is made of a pipeline of AI tools that perform an in-depth analysis of movie synopses, including the main characters, events and locations in the story. It does not rely on big data collection of user data, but simply does what a film critic or a journalist would do: gather information about the narrative, style and genre of the movie, and provide an intelligent summary of its most important features. 
+
+To achieve this, Toppix builds on the tools Possible Worlds has been developing in their [Garden of AI](projects/garden-ai) for data collection and processing. It also integrates insights from [cutting-edge science](/science/#formal-semantics), which allow it to extract complex structural features out of raw text data.
 
 
 
@@ -29,5 +31,5 @@ The first version of Toppix is made of a pipeline of AI tools that perform an in
 
 **Privacy-respecting:** The dominant recommendation algorithms are based on the centralised collection on personal data: what consumers have bought, what they have liked on social media, what their friends have bought / liked, what 'similar' people are interested in. Instead, Toppix is 100% content-based.
 
-
+**SME-friendly:** Small and Medium Enterprises are often left out of the digital revolution, being unable to afford state-of-the-art recommendation engines for their products. Toppix solve this issue by running on small hardware and being able to intelligently analyze restricted amounts of data. No large servers needed. 
 
