@@ -31,5 +31,5 @@ To achieve this, Toppix builds on the tools Possible Worlds has been developing 
 
 **Privacy-respecting:** The dominant recommendation algorithms are based on the centralised collection on personal data: what consumers have bought, what they have liked on social media, what their friends have bought / liked, what 'similar' people are interested in. Instead, Toppix is 100% content-based.
 
-**SME-friendly:** Small and Medium Enterprises are often left out of the digital revolution, being unable to afford state-of-the-art recommendation engines for their products. Toppix solve this issue by running on small hardware and being able to intelligently analyze restricted amounts of data. No large servers needed. 
+**SME-friendly:** Small and Medium Enterprises are often left out of the digital revolution, being unable to afford state-of-the-art recommendation engines for their products. Toppix solves this issue by running on small hardware and being able to intelligently analyze restricted amounts of data. No large servers needed. 
 
