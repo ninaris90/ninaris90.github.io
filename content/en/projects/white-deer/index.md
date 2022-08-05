@@ -28,6 +28,8 @@ To achieve this, White Deer acts as an artist, taking in the stimuli of the exis
 
 White Deer relies on analysing how the data people are exposed to shapes their concepts and beliefs in the current world. It also provides tools to manipulate the real data -- adding, removing, and modifying existing ideas, with the goal of simulating a human exposed to radically different beliefs.
 
+TECH EXPLANATION: Humans represent reality through sets of interconnected concepts. Recent advances in machine learning have shown that a system exposed to text content can learn vector space representations that come close to human concepts. The geometry of the resulting space is dependent on the data that has been fed into the system. So by modifying the data, we can indirectly act on the concepts that are learned from it. The core of White Deer is the ability to manipulate text data in a way that some parts of reality are removed, added or modified, and to learn concepts from that new data, thus simulating an individual exposed to various hypothetical social and economic structures. Analysis tools are also provided, giving different options to inspect the configuration of the acquired conceptual content.
+
 
 [comment]: # (it can be new but it is not realistic or possible or it can be realistic and possible but it is now new. !! thinking how a future can be different, new, as opposed to an extension of the present. The output can be analysed in terms of the most likely associations a human would draw between concepts. A possible extension for the system would be to train a dialogue agent on the data rather than simply learn concepts. The resulting agent could then chat with human users.)
 
