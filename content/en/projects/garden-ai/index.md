@@ -15,7 +15,6 @@ Unlike agriculture, though, the practice of AI is currently reserved to a handfu
 
 Possible Worlds is committed to make AI a truly shared human activity. We want everyone, everywhere, to be able to take part in the AI revolution. Just like in the natural world, we want seeds to lie around, ready to be collected by budding farmers. We want land to be available to those who need it. We want people to experiment, learn, and share their skills and produces.
 
-
 ## Working out a solution
 
 Farming requires three ingredients: soil, water, and seeds. Similarly, AI has some basic needs: hardware that will run computations according to a predefined algorithm, data that the program can learn from, and the algorithm itself.
@@ -26,10 +25,8 @@ Farming requires three ingredients: soil, water, and seeds. Similarly, AI has so
 
 *Algorithms (the seeds)*: The algorithm is what people usually refer to when they talk of an 'AI'. Right now, the most successful AI algorithms fall under the concept of 'Deep Learning', i.e. very large and complex neural networks which require huge resources in terms of hardware, data, and expert knowledge. Possible Worlds is rebuilding AI, one step at a time, to make it run on small hardware and small data. Because we believe that intelligence is about doing much with nothing. To achieve our goal, we extensively rely on insights in the fields of cognitive science, neuroscience and theoretical linguistics. Because we believe that the AI of tomorrow will be based on science, not on size.
 
-
 ## Features
 
-**100% RPI-compatible:** All our AI components are tested on single-board computers, to ensure they will work on low-level hardware. In practice, we test each component on Raspberry Pis, model 4, 4-8GB RAM. 
+**100% RPI-compatible:** All our AI components are tested on single-board computers, to ensure they will work on low-level hardware. In practice, we test each component on Raspberry Pis, model 4, 4-8GB RAM.
 
-
-**100% eco-friendly:** We record the CO2 emissions of each AI component before releasing it, so that users are fully aware of their footprint. 
+**100% eco-friendly:** We record the CO2 emissions of each AI component before releasing it, so that users are fully aware of their footprint.
