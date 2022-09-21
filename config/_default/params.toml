@@ -1,7 +1,7 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Home"
+title = ""
 titleSeparator = "-"
 titleAddition = "Possible Worlds"
 description = "The Home of Small AI"
@@ -54,10 +54,10 @@ lqipWidth = "20x"
 smallLimit = "300"
 
 # Footer
-footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
+footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>. Logo by Leo Palmer."
 
 # Feed
-copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
+copyRight = "Copyright (c) 2022 Possible Worlds"
 
 # Alert
 alert = false
@@ -80,7 +80,7 @@ lastMod = false
   clipBoard = true
   instantPage = true
   flexSearch = true
-  darkMode = true
+  darkMode = false
   bootStrapJs = true
   breadCrumb = false
   highLight = true
