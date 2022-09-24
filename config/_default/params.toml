@@ -4,7 +4,7 @@
 title = ""
 titleSeparator = "-"
 titleAddition = "Possible Worlds"
-description = "The Home of Small AI"
+description = "AI for social innovation. We make possible worlds possible."
 
 ## Documentation
 # docsVersion = "0.3"
@@ -16,8 +16,8 @@ domainTLD = ""
 titleHome = "Possible Worlds"
 
 ## Twitter Cards
-twitterSite = ""
-twitterCreator = ""
+twitterSite = "https://www.possible-world.xyz/"
+twitterCreator = "Possible Worlds"
 
 ## JSON-LD
 # schemaType = "Person"
@@ -54,7 +54,7 @@ lqipWidth = "20x"
 smallLimit = "300"
 
 # Footer
-footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>. Logo by <a class=\"text-muted\" href=\"https://leopalmerdesign.com/\">Leo Palmer</a>."
+footer = "Powered by <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a> and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>. Logo by <a class=\"text-muted\" href=\"https://leopalmerdesign.com/\">Leo Palmer</a>."
 
 # Feed
 copyRight = "Copyright (c) 2022 Possible Worlds"
