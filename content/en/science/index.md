@@ -1,6 +1,6 @@
 ---
 title: "Science"
-description: ""
+description: "The science behind the technology of Possible Worlds"
 date: 2022-08-01T09:25:27+02:00
 lastmod: 2022-08-01T09:25:27+02:00
 draft: false

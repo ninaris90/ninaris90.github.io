@@ -1,6 +1,6 @@
 ---
 title: "Team"
-description: "The Possible Worlds Team"
+description: "The Possible Worlds co-founders: Nina and Aurelie"
 date: 2022-07-31T12:42:39+02:00
 lastmod: 2022-07-31T12:42:39+02:00
 draft: false
