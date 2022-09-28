@@ -12,7 +12,7 @@ images: []
 <td width='50%'>
 <b>  Nina Rismal</b>
 <hr>
-Nina is an economist and political philosopher interested in social change. 
+Nina is an economist and political philosopher interested in social change.
 <hr>
 
 [LinkedIn](https://www.linkedin.com/in/nina-rismal-734269234/)
