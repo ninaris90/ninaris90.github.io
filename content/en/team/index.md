@@ -14,7 +14,7 @@ images: []
 <hr>
 Nina is an economist and political philosopher interested in social change.
 <hr>
-[LinkedIn](https://www.linkedin.com/in/nina-rismal-734269234/)
+<a href='https://www.linkedin.com/in/nina-rismal-734269234/'>LinkedIn</a>
 </td>
 
 <td width='50%'>
@@ -22,7 +22,7 @@ Nina is an economist and political philosopher interested in social change.
 <hr>
 Aurelie is a computer scientist specialised in Natural Language Processing.
 <hr>
-[LinkedIn](https://www.linkedin.com/in/aurelie-herbelot-0a8834238/)
+<a href='https://www.linkedin.com/in/aurelie-herbelot-0a8834238/'>LinkedIn</a>
 </td>
 </tr>
 </table>
