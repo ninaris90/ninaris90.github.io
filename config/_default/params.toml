@@ -57,7 +57,7 @@ smallLimit = "300"
 footer = "Powered by <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a> and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>. Logo by <a class=\"text-muted\" href=\"https://leopalmerdesign.com/\">Leo Palmer</a>."
 
 # Feed
-copyRight = "Copyright (c) 2022 Possible Worlds"
+copyRight = "Copyright (c) 2023 Possible Worlds"
 
 # Alert
 alert = false

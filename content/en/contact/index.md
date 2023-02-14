@@ -7,9 +7,9 @@ draft: false
 images: []
 ---
 
-For any enquiry about Possible Worlds, please contact Nina at:
+For any enquiry about Possible Worlds, please contact us at:
 
-{{< email user="nina" domain="possible-worlds.xyz" >}}
+{{< email user="contact" domain="possible-worlds.xyz" >}}
 <br>
 <br>
 <br>
