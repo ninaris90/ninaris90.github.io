@@ -22,7 +22,7 @@ Nina is an economist and political philosopher interested in social change.
 <hr>
 Aurelie is a computer scientist specialised in Natural Language Processing.
 <hr>
-<a href='https://www.linkedin.com/in/aurelie-herbelot-0a8834238/'>LinkedIn</a>
+<a href='https://www.linkedin.com/in/aurelie-herbelot-0a8834238/'>LinkedIn</a> | 
 <a href='https://aurelieherbelot.net'>Website</a>
 </td>
 </tr>
