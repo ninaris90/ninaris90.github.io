@@ -7,4 +7,4 @@ draft: false
 images: []
 ---
 
-At Possible Worlds, we actively integrate AI research and development with deep insights from social science, politics and the arts. 
+At Possible Worlds, we actively integrate AI research and development with deep insights from social science, politics and the arts.
