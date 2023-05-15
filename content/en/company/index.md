@@ -1,5 +1,5 @@
 ---
-title: "Our company"
+title: "Possible Worlds: our company"
 description: "Possible Words: the big questions"
 date: 2022-07-31T12:42:39+02:00
 lastmod: 2022-07-31T12:42:39+02:00
@@ -7,15 +7,15 @@ draft: false
 images: []
 ---
 
-We believe that a company should not only provide solutions; it should also ask questions. Here are some fundamental questions we have about our trade, about the kind of organisation we want to be, and ultimately about our planet. We have been thinking about them for a long time, so we link to previous and current efforts of ours (✍).
+We believe that a company should not only provide solutions; it should also ask questions. Here are some fundamental questions we have about our trade, about the kind of organisation we want to be, and ultimately about our planet. We have been thinking about them for a long time, so we link to past and current projects of ours (✍).
 
 ---
 
-**The social impact of algorithms** 
+**Rethinking the world** 
 
-Current AI is built around a notion of prediction which encourages the reproduction of existing patterns -- the good and the bad. Its widespread adoption will mean more entrenchment in the patterns of the past and less freedom to think outside of the box. We want to campaign for radical change in the way AI algorithms are built and thought about. But how do we start shifting long-lived assumptions about what makes 'good machine learning'?
+*Possible Worlds* does what it says on the tin: our organization is concerned about envisaging alternatives to the status quo. When it comes to AI, we find that current systems are built around a notion of prediction which encourages the reproduction of existing patterns -- the good and the bad. The widespread adoption of such systems means more entrenchment in the patterns of the past and less freedom to think outside of the box. We want to campaign for radical change in the way AI algorithms are built and thought about, and make them support human creativity rather than restrict it. But how do we start shifting long-lived assumptions about what makes 'good machine learning'?
 
-✍ See *[The ethics of generalization](https://denotation.io/AI/the-ethics-of-generalization/)*, *[Infinity is not everything](https://denotation.io/blog/infinity-is-not-everything/)* (blog post). On radical change and promoting emancipatory social goals: *[The ends of utopian thinking](https://brill.com/display/title/64896?language=en)* (monograph, in press).
+✍  On radical change and promoting emancipatory social goals: *[The ends of utopian thinking](https://brill.com/display/title/64896?language=en)* (monograph, in press). More specifically on AI: *[The ethics of generalization](https://denotation.io/AI/the-ethics-of-generalization/)*, *[Infinity is not everything](https://denotation.io/blog/infinity-is-not-everything/)* (blog posts). 
 
 ---
 
@@ -44,11 +44,11 @@ Data can be used or abused. In the face of the current debates around AI and cop
 
 ---
 
-**Organizing work**
+**The future of work**
 
 * How do we organise work to make it meaningful, at all levels of research and development?  
 
-✍  First, the obvious: we believe in diverse teams. As an exmaple, the core developers of the *[PeARS Project](https://pearsproject.org/)* come from Asia, Europe and South America. But beyond this prerequisite, we are thinking of structures and processes that will stress the importance of each and everyone of our colleagues. The issues listed on this page highlight that there is no small task, and we want everybody to feel that *their* work is fully essential, not just to the company but to the world at large.
+✍  First, the obvious: we believe in diversity. The core *[PeARS team](https://pearsproject.org/)* is gender-balanced, with members from Asia, Europe and South America. Beyond this natural prerequisite, we are thinking of structures and processes that will stress the importance of each and everyone of our colleagues. The issues listed on this page highlight that there is no small task, and we want everybody to feel that *their* work is fully essential, not just to the company but to the world at large.
 
 ---
 

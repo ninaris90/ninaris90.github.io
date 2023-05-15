@@ -7,6 +7,6 @@ draft: false
 images: []
 ---
 
-At Possible Worlds, we actively integrate AI research and development with insights from social science, politics and the arts.
+At Possible Worlds, we actively integrate AI development with insights from the social sciences, politics and the arts.
 
-We are a research-driven company, grounded in [science](../science/).
+We are a research-driven company, strongly rooted in [science](../science/).
