@@ -1,13 +1,13 @@
 ---
 title: "Possible Worlds: our company"
-description: "Possible Words: the big questions"
+description: "Possible Words: the big questions around Artificial Intelligence"
 date: 2022-07-31T12:42:39+02:00
 lastmod: 2022-07-31T12:42:39+02:00
 draft: false
 images: []
 ---
 
-We believe that a company should not only provide solutions; it should also ask questions. Here are some fundamental questions we have about our trade, about the kind of organisation we want to be, and ultimately about our planet. We have been thinking about them for a long time, so we link to past and current projects of ours (✍).
+We believe that a company should not only provide solutions; it should also ask questions. Here are some fundamental questions we have about our trade (Artificial Intelligence), about the kind of organisation we want to be, and ultimately about our planet. We have been thinking about them for a long time, so we link to past and current projects of ours (✍).
 
 ---
 
