@@ -31,7 +31,7 @@ Current AI has grown around a mistaken notion of language, which has far-reachin
 
 Data can be used or abused. In the face of the current debates around AI and copyright violations, how do we build community-based infrastructures for healthy data sharing? Can we integrate our company's data processes with the Commons? How do we organize the work of dataset documentation?
 
-✍  *[PeARS](https://pearsproject.org/)* is an open-source project aimed at developing a distributed, multilingual search engine that can be run by individuals, using low-level hardware. The basic assumption underlying the architecture is that users will engage in the project by building and sharing community-based indices of Web content. We believe the general PeARS structure could be leveraged for data creation, documentation and licensing. The project is currently funded by the EU's '[Next Generation Internet](https://www.ngi.eu/about/)' Programme.
+✍  *[PeARS](https://pearsproject.org/)* is an open-source project aimed at developing a distributed, multilingual search engine. It allows users to build, share and search community-based indices of Web content. The general PeARS structure can be leveraged for data creation, documentation and licensing. The project is currently funded by the EU's '[Next Generation Internet](https://www.ngi.eu/about/)' Programme.
 
 
 ---
@@ -48,7 +48,7 @@ Data can be used or abused. In the face of the current debates around AI and cop
 
 * How do we organise work to make it meaningful, at all levels of research and development?  
 
-✍  First, the obvious: we believe in diversity. The core *[PeARS team](https://pearsproject.org/)* is gender-balanced, with members from Asia, Europe and South America. Beyond this natural prerequisite, we are thinking of structures and processes that will stress the importance of each and everyone of our colleagues. The issues listed on this page highlight that there is no small task, and we want everybody to feel that *their* work is fully essential, not just to the company but to the world at large.
+✍  First, the obvious: we believe in diversity. The core *[PeARS team](https://pearsproject.org/)* is gender-balanced and has members from Asia, Europe and South America. Beyond this natural prerequisite, we are thinking of structures and processes that will stress the importance of each and everyone of our colleagues. The issues listed on this page highlight that there is no small task, and we want everybody to feel that *their* work is fully essential, not just to the company but to the world at large.
 
 ---
 
