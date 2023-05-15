@@ -40,7 +40,7 @@ Data can be used or abused. In the face of the current debates around AI and cop
 
 * Our planet is dying, due to unregulated energy usage within various industries. How do we promote technological degrowth? How do we give visibility and value to efficient algorithms that do not pollute?
 
-✍ We have a track-record of working on small and efficient NLP systems using both conventional and unconventional architectures. For a sample of peer-reviewed publications, see [here](https://aclanthology.org/2020.conll-1.27/), [here](https://aclanthology.org/2020.conll-1.13/), or [here](https://aclanthology.org/2022.sustainlp-1.4/). A full publication list can be found [here](https://aurelieherbelot.net/research/publications/).
+✍ We have a track-record of working on small and efficient NLP systems using both conventional and unconventional architectures. For a sample of peer-reviewed publications, see [here](https://aclanthology.org/2020.conll-1.27/), [here](https://aclanthology.org/2020.conll-1.13/), or [here](https://aclanthology.org/2022.sustainlp-1.4/).
 
 ---
 
