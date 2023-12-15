@@ -11,4 +11,4 @@ We research, create and interpret possible worlds - nonexistent and not yet exis
 
 A ‘possible world’ is a technical term in linguistics describing a complete and consistent way the world is or could have been.
 
-We are a research-driven company, strongly rooted in [science](../science/). 
+We are a research-driven company, divided into Possible Worlds Inc. and Possible Worlds Research. We are strongly rooted in [science](../science/). 
