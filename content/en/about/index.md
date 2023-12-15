@@ -7,6 +7,8 @@ draft: false
 images: []
 ---
 
-At Possible Worlds, we actively integrate AI development with insights from the social sciences, politics and the arts.
+We research, create and interpret possible worlds - nonexistent and not yet existent ones - utilising AI and insights from social sciences, humanities and the arts.
+
+A ‘possible world’ is a technical term in linguistics describing a complete and consistent way the world is or could have been.
 
 We are a research-driven company, strongly rooted in [science](../science/).
