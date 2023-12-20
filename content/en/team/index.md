@@ -1,6 +1,6 @@
 ---
 title: "Team"
-description: "The Possible Worlds co-founders: Nina and Aurelie"
+description: "The Possible Worlds cofounders"
 date: 2022-07-31T12:42:39+02:00
 lastmod: 2022-07-31T12:42:39+02:00
 draft: false
@@ -12,17 +12,17 @@ images: []
 <td width='50%'>
 <b>Nina Rismal</b>
 <hr>
-Nina is an economist and political philosopher interested in social change.
+Nina is an economist and political philosopher with expertise in future thinking.
 <hr>
 <a href='https://www.linkedin.com/in/nina-rismal-734269234/'>LinkedIn</a>
 </td>
 
 <td width='50%'>
-<b>Aurelie Herbelot</b>
+<b>Dominik Scherm</b>
 <hr>
-Aurelie is a computational linguist with strong links to the cognitive science community.
+Dominik is a software engineer and a second-time founder, interested in acceleration and future cities.
 <hr>
-<a href='https://www.linkedin.com/in/aurelie-herbelot-0a8834238/'>LinkedIn</a> | <a href='https://aurelieherbelot.net'>Website</a>
+<a href='[https://www.linkedin.com/in/dominik-thomas-scherm/]'>LinkedIn</a> | <a href='[https://dominikscherm.de]'>Website</a>
 </td>
 </tr>
 </table>
