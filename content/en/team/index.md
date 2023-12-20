@@ -22,7 +22,7 @@ Nina is an economist and political philosopher with expertise in future thinking
 <hr>
 Dominik is a software engineer and a second-time founder, interested in acceleration and future cities.
 <hr>
-<a href=https://www.linkedin.com/in/dominik-thomas-scherm/'>LinkedIn</a> | <a href='https://dominikscherm.de'>Website</a>
+<a href='https://www.linkedin.com/in/dominik-thomas-scherm/'>LinkedIn</a> | <a href='https://dominikscherm.de'>Website</a>
 </td>
 </tr>
 </table> 
