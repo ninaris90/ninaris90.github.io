@@ -9,4 +9,6 @@ images: []
 
 We use generative AI agents to deliver market insights to product vendors, giving them insight today into the possible worlds of tomorrow. 
 
-What we have built so far:
+See what we have built so far:
+<a href='https://github.com/simulatrex/simulatrex/'>Github</a>
+<a href='https://simulatrex.gitbook.io/simulatrex/overview/about'>GitBook</a>
