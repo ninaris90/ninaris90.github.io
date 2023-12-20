@@ -25,4 +25,4 @@ Dominik is a software engineer and a second-time founder, interested in accelera
 <a href='[https://www.linkedin.com/in/dominik-thomas-scherm/]'>LinkedIn</a> | <a href='[https://dominikscherm.de]'>Website</a>
 </td>
 </tr>
-</table>
+</table> 
