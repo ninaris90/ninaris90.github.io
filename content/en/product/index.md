@@ -11,5 +11,6 @@ We use generative AI agents to deliver market insights to product vendors, givin
 
 We have built Simulatrex, an open-source project focused on Generative Agent-Based Modeling, utilizing large language models for more accurate simulations. It's designed for researchers and developers interested in exploring human behavior and social dynamics.
 
+Further information:
 <a href='https://github.com/simulatrex/simulatrex/'>Github</a> \
 <a href='https://simulatrex.gitbook.io/simulatrex/overview/about'>GitBook</a>
