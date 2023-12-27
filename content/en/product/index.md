@@ -13,3 +13,6 @@ We have built Simulatrex, an open-source project focused on Generative Agent-Bas
 
 Find out more: \
 <a href='https://github.com/simulatrex/simulatrex/'>GitHub</a> \
+<a href='https://simulatrex.gitbook.io/simulatrex/overview/about'>GitBook</a>
+
+
