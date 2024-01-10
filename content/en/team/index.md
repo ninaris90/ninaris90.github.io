@@ -17,12 +17,12 @@ Nina is an economist and political philosopher with expertise in future thinking
 <a href='https://www.linkedin.com/in/ninarismal/'>LinkedIn</a>
 </td> 
 
-#<td width='50%'>
-#<b>Dominik Scherm</b>
-#<hr>
-#Dominik is a software engineer and a second-time founder, interested in acceleration and future cities.
-#<hr>
-#<a href='https://www.linkedin.com/in/dominik-thomas-scherm/'>LinkedIn</a>
-#</td>
-#</tr>
-#</table> 
+\ <td width='50%'>
+\ <b>Dominik Scherm</b>
+\ <hr>
+\ Dominik is a software engineer and a second-time founder, interested in acceleration and future cities.
+<hr>
+<a href='https://www.linkedin.com/in/dominik-thomas-scherm/'>LinkedIn</a>
+</td>
+</tr>
+</table> 
