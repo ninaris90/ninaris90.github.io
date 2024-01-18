@@ -11,17 +11,21 @@ images: []
 <tr>
 <td width='50%'>
 <b>Nina Rismal</b>
-  Cofounder and CEO
+<hr>
+Cofounder and CEO
 <hr>
 Nina is an economist and political philosopher with expertise in future thinking.
 <hr>
 <a href='https://www.linkedin.com/in/ninarismal/'>LinkedIn</a>
 </td> 
 
+<hr>
+
 <tr>
 <td width='50%'>
 <b>Aurelie Herbelot</b>
-  Cofounder and Scientific Advisor
+<hr>
+Cofounder and Scientific Advisor
 <hr>
 Aurelie has over 15 years of experience in academia, researching and building cognitively-inspired AI models.
 <hr>
