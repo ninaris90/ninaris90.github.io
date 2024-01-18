@@ -11,4 +11,4 @@ At Possible Worlds Inc. we research, create and interpret possible worlds - none
 
 A ‘possible world’ is a technical term in linguistics describing a complete and consistent way the world is or could have been.
 
-We are a research-driven company, supported by our sister company, Possible Worlds Research. 
+We are a research-driven company, supported by our sister company, <a href='https://possible-worlds.eu/'>Possible Worlds Research</a>. 
